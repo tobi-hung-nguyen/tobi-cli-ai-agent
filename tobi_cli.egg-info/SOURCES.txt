@@ -1,0 +1,9 @@
+README.md
+cli.py
+pyproject.toml
+tobi_cli.egg-info/PKG-INFO
+tobi_cli.egg-info/SOURCES.txt
+tobi_cli.egg-info/dependency_links.txt
+tobi_cli.egg-info/entry_points.txt
+tobi_cli.egg-info/requires.txt
+tobi_cli.egg-info/top_level.txt
