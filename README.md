@@ -228,4 +228,4 @@ cat ~/.tobi_history.json
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE]({your_dir}/tobi-cli-ai-agent/LICENSE) file.
+This project is licensed under the MIT License. See the [LICENSE](/LICENSE) file.
