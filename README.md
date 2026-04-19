@@ -93,7 +93,7 @@ sudo pacman -S python python-pip
 Then install the CLI:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/tobi-hung-nguyen/tobi-cli-ai-agent.git
 cd tobi-cli-ai-agent
 python3 -m venv .venv
 source .venv/bin/activate
