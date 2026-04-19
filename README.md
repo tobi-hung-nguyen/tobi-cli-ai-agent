@@ -60,7 +60,7 @@ tobi-cli-ai-agent/
 ### macOS / Linux
 
 ```bash
-cd /Users/hungatto/Desktop/tobi-cli-ai-agent
+cd {your_dir}/tobi-cli-ai-agent
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -e . --no-build-isolation
@@ -140,14 +140,14 @@ If `tobi` is not found in a new shell, add the virtualenv binary path to your sh
 `zsh`:
 
 ```bash
-echo 'export PATH="/Users/hungatto/Desktop/tobi-cli-ai-agent/.venv/bin:$PATH"' >> ~/.zshrc
+echo 'export PATH="{your_dir}/tobi-cli-ai-agent/.venv/bin:$PATH"' >> ~/.zshrc
 source ~/.zshrc
 ```
 
 `bash`:
 
 ```bash
-echo 'export PATH="/Users/hungatto/Desktop/tobi-cli-ai-agent/.venv/bin:$PATH"' >> ~/.bashrc
+echo 'export PATH="{your_dir}/tobi-cli-ai-agent/.venv/bin:$PATH"' >> ~/.bashrc
 source ~/.bashrc
 ```
 
@@ -228,4 +228,4 @@ cat ~/.tobi_history.json
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](/Users/hungatto/Desktop/tobi-cli-ai-agent/LICENSE) file.
+This project is licensed under the MIT License. See the [LICENSE]({your_dir}/tobi-cli-ai-agent/LICENSE) file.

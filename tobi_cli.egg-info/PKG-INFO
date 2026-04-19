@@ -59,7 +59,7 @@ tobi-cli-ai-agent/
 ## Installation
 
 ```bash
-cd /Users/hungatto/Desktop/tobi-cli-ai-agent
+cd {your_dir}/tobi-cli-ai-agent
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -e .
