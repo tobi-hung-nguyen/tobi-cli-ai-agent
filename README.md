@@ -66,8 +66,10 @@ source .venv/bin/activate
 pip install -r requirements.txt
 pip install --upgrade pip setuptools wheel
 pip install -e . --no-build-isolation
-sudo nano ~/.zshrc and add "export PATH="{your_dir}/tobi-cli-ai-agent/.venv/bin:$PATH""
+sudo nano ~/.zshrc and 
+export PATH="{your_dir}/tobi-cli-ai-agent/.venv/bin:$PATH"
 export OPENAI_API_KEY=your_api_key_here
+source ~/.zshrc
 ```
 
 ### Linux Notes
